@@ -16,3 +16,6 @@ Kullanılabilecek makine öğrenmesi modeli önerildi.
 Bu proje, bir proje yapmak isteyip bağışa ihtiyaç duyan, "Acaba yeterli miktarı toplayıp başarılı olabilecek miyiz?" diyen bir Start-Up şirketi tarafından, 
 veya bir veri analizi şirketi (belki de veri setinin sahip olduğu şirket) tarafından yürütülen bir "hangi kategorilerde?", "hangi yıllarda?", "ne kadar para toplama hedefi olan?" projelerin başarılı olup olmadığını tahmin etmek isteyen bir şirket tarafından yapılan bir projenin 
 veri analizi adımı olarak kullanılabilir.
+
+Proje için kaggle linki :  https://www.kaggle.com/code/furkankaramanoglu/aygaz-ai-hub-veri-analizi
+
